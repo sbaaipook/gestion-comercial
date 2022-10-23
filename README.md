@@ -3,4 +3,3 @@
 - les donners pour remplir les tables du base de données
 ## le fichier querys est contient :
 - les reponses des question pousé pour cette base de données
-<font color="red">This text is red!</font>
